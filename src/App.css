@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #007bff;
+  margin: 0;
+  padding: 20px;
+}
+
+.price-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+}
